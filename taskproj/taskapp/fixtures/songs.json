@@ -1,0 +1,58 @@
+[
+  {
+    "model": "taskapp.artist",
+    "pk": 1,
+    "fields": {
+      "name": "Michael Jackson"
+    }
+  },
+  {
+    "model": "taskapp.artist",
+    "pk": 2,
+    "fields": {
+      "name": "Beyonce"
+    }
+  },
+  {
+    "model": "taskapp.artist",
+    "pk": 3,
+    "fields": {
+      "name": "Madonna"
+    }
+  },
+  {
+    "model": "taskapp.album",
+    "pk": 1,
+    "fields": {
+      "name": "Bangers & Ballads"
+    }
+  },
+  {
+    "model": "taskapp.album",
+    "pk": 2,
+    "fields": {
+      "name": "Live Life Living"
+    }
+  },
+  {
+    "model": "taskapp.song",
+    "pk": 1,
+    "fields": {
+      "name": "dark horse"
+    }
+  },
+  {
+    "model": "taskapp.song",
+    "pk": 2,
+    "fields": {
+      "name": "7 years old"
+    }
+  },
+  {
+    "model": "taskapp.song",
+    "pk": 3,
+    "fields": {
+      "name": "shape of you"
+    }
+  }
+]
